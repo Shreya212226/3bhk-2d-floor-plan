@@ -12,7 +12,7 @@ A detailed 2D floor plan of a **3BHK residential unit**, designed using **AutoCA
 - **Focus:** Functional space planning, accurate dimensions, and clean layer management for professional drafting.
 
 ## Files Included
-`.dwg` – AutoCAD 2D drawing file
+`.dwfx` – AutoCAD 2D drawing file
 
 `.pdf` – (Optional) for easy viewing and printing
 
