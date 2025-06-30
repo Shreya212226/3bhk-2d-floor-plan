@@ -5,10 +5,10 @@ A detailed 2D floor plan of a **3BHK residential unit**, designed using **AutoCA
 ## Project Highlights
 - **Software Used: AutoCAD 2025 (2D Drafting)**
 - **Components Included:**
-  - Three bedrooms with attached and common bathrooms
-  - Living and dining area
-  - Kitchen with utility space
-  - Balcony and circulation spaces
+  - Three bedrooms and two bathrooms.
+  - Living area.
+  - Kitchen with utility space.
+    
 - **Focus:** Functional space planning, accurate dimensions, and clean layer management for professional drafting
 
 ## Files Included
