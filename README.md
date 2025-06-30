@@ -9,7 +9,7 @@ A detailed 2D floor plan of a **3BHK residential unit**, designed using **AutoCA
   - Living area.
   - Kitchen with utility space.
     
-- **Focus:** Functional space planning, accurate dimensions, and clean layer management for professional drafting
+- **Focus:** Functional space planning, accurate dimensions, and clean layer management for professional drafting.
 
 ## Files Included
 `.dwg` – AutoCAD 2D drawing file
